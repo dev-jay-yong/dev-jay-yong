@@ -1,11 +1,12 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+### SKILL⚒
+[![PYTHON](https://img.shields.io/amo/stars/python?color=white&label=PYTHON&logo=PYTHON&logoColor=white)](https://www.python.org/)
+
 <!--
 **dev-jay-yong/dev-jay-yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-[![PYTHON](https://img.shields.io/amo/stars/python?color=white&label=PYTHON&logo=PYTHON&logoColor=white)](https://www.python.org/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
