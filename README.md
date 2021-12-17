@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=Jay%20Yong&fontSize=90)
 
 ### SKILL⚒
-[![PYTHON](https://img.shields.io/amo/stars/python?color=white&label=PYTHON&logo=PYTHON&logoColor=white)](https://www.python.org/)
+[![PYTHON](https://img.shields.io/amo/stars/python?color=white&label=PYTHON&logo=PYTHON&logoColor=white)](https://www.python.org/) [![MySQL](https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white)](github.com/Joowon0220/TODO-List)
 
 <!--
 **dev-jay-yong/dev-jay-yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
