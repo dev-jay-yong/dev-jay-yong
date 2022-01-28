@@ -1,6 +1,6 @@
 
 <div align='center'>
-  ![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=Jay%20Yong&fontSize=90)
+  [![header]](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=300&section=header&text=Jay%20Yong&fontSize=90)
 
   ### SKILL⚒
   [![PYTHON](https://img.shields.io/badge/python-3776AB?&logo=PYTHON&logoColor=white)](https://www.python.org/) 
